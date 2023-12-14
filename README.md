@@ -1,11 +1,15 @@
-# やっぱり Noto Sans
+# やっぱり ~~Noto Sans~~ Sarasa Gothic
+
+どっちと言うならやはり Sarasa Gothic ですね。  
+元レポジトリ https://github.com/r-40021/replace-font 
+
 
 Chrome -> https://chrome.google.com/webstore/detail/oecglhldbofcklanmhckefiflhfhabdd
 
 Firefox -> https://addons.mozilla.org/ja/firefox/addon/replace-with-noto/
 
 ## English
-This is a browser extension that replaces hard-to-read fonts with Noto Sans.
+This is a browser extension that replaces hard-to-read fonts with ~~Noto Sans~~ Sarasa Gothic.
 
 Fonts that be replaced:
 
@@ -23,7 +27,7 @@ Changing the browser's default font will result in cleaner text on many more sit
 
 ## 日本語
 
-これは、読みづらいフォントを Noto Sans に置き換えるブラウザ拡張機能です。
+これは、読みづらいフォントを ~~Noto Sans~~ Sarasa Gothic に置き換えるブラウザ拡張機能です。
 
 置き換えられるフォント
 
