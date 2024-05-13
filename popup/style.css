@@ -10,14 +10,14 @@ body {
 
 @font-face { 
   font-family: 'Noto Font';
-  src:  local('Noto Sans CJK JP'),
+  src:  local('Sarasa Gothic J'),
         url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2');
   font-display: swap;
 }
 
 @font-face { 
   font-family: 'Noto Font';
-  src:  local('Noto Sans CJK JP Bold'),
+  src:  local('Sarasa Gothic J Bold'),
         url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Bold-subset.woff2') format('woff2');
   font-weight: bold;
 }
