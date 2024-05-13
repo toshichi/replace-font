@@ -187,7 +187,7 @@
 }
 @font-face { 
   font-family: "Arial Unicode MS"; 
-  src:  local('Noto Sans CJK JP'),
+  src:  local('Sarasa Gothic J'),
         local('Noto Sans JP'),
         url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
