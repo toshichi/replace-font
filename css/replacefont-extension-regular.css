@@ -193,3 +193,11 @@
         local('BIZ UDPGothic');
   font-display: swap;
 }
+@font-face { 
+  font-family: "Pretendard_JP"; 
+  src:  local('Sarasa Gothic J'),
+        local('Noto Sans JP'),
+        url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
+        local('BIZ UDPGothic');
+  font-display: swap;
+}

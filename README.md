@@ -20,6 +20,7 @@ Fonts that be replaced:
 - Yu Gothic UI
 - Meiryo UI
 - M PLUS Rounded 1c
+- Pretendard_JP
 
 Changing the browser's default font will result in cleaner text on many more sites.
 
@@ -38,6 +39,7 @@ Changing the browser's default font will result in cleaner text on many more sit
 - Yu Gothic UI
 - Meiryo UI
 - M PLUS Rounded 1c
+- Pretendard_JP
 
 ブラウザのデフォルトフォントを変更すると、さらに多くのサイトで文字が綺麗になります。
 
