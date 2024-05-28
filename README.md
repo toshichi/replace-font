@@ -2,7 +2,7 @@
 
 どっちと言うならやはり Sarasa Gothic ですね。  
 この mod 版は chrome store などに公開されていません、dev モードに切り替えて、手動で読み込んでください。  
-[Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) もご自分でインストールしてください。
+[Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic/releases) もご自分でインストールしてください。
 
 ## 元レポジトリ
 
