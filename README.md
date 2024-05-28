@@ -1,8 +1,11 @@
 # やっぱり ~~Noto Sans~~ Sarasa Gothic
 
 どっちと言うならやはり Sarasa Gothic ですね。  
-元レポジトリ https://github.com/r-40021/replace-font 
+この mod 版は chrome store などに公開されていません、dev モードに切り替えて、手動で読み込んでください。
 
+## 元レポジトリ
+
+https://github.com/r-40021/replace-font 
 
 Chrome -> https://chrome.google.com/webstore/detail/oecglhldbofcklanmhckefiflhfhabdd
 
